@@ -1,0 +1,21 @@
+{
+  "name": "node-unique-id-generator",
+  "version": "0.0.1",
+  "description": "Unique Id and GUID creator for node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "uid",
+    "guid",
+    "unique",
+    "id",
+    "identifier"
+  ],
+  "author": "Ayush Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "0.0.3"
+  }
+}
