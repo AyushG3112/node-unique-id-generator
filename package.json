@@ -1,6 +1,6 @@
 {
   "name": "node-unique-id-generator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Unique Id and GUID creator for node.",
   "main": "index.js",
   "scripts": {
