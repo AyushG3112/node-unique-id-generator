@@ -17,5 +17,17 @@
   "license": "ISC",
   "dependencies": {
     "crypto": "0.0.3"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushG3112/node-unique-id-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AyushG3112/node-unique-id-generator/issues"
+  },
+  "homepage": "https://github.com/AyushG3112/node-unique-id-generator#readme"
 }
