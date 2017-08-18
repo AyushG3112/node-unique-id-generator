@@ -2,7 +2,7 @@
 A npm module to generate Unique ID and GUID for node.
 
 Table of Contents
-=================
+================= 
 
   * [Installation](#installation)
   * [How to use](#howtouse)
